@@ -1,9 +1,9 @@
 
 
 
-edc3deuttemp2007.txt
 https://www.ncei.noaa.gov/access/paleo-search/study/6080 
-EPICA Dome C - 800KYr Deuterium Data and Temperature Estimates
+Temperature anomaly data (used in Nature (2008)), EPICA Dome C - 800KYr Deuterium Data and Temperature Estimates: edc3deuttemp2007.txt
 
 
+Mauna Loa Monthly Average Data: https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_mlo.txt
 
