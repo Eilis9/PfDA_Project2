@@ -23,7 +23,8 @@ The analysis for the project is in the workbook analysis.ipynb. All commentary a
 Main literature and data source files are included in /literature and /data
 
 How to run:
-The Jupyter Notebook (analysis.ipynb) should be downloaded along with the /img and /data folder and run locally in Jupyter notebook version 6.5.2.
+
+The Jupyter Notebook (analysis.ipynb) should be downloaded along with the /img, /data and fused_dataset/ folder and run locally in Jupyter notebook version 6.5.2.  The fused_dataset folder may be created as an empty folder to which the notebook will write the datasets when run.
  - - -
 
 
