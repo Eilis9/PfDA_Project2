@@ -15,6 +15,7 @@ Software Used:
  - Python v3.10 and higher
  - Jupyter Notebook 6.5.2   
  - xlrd library (https://anaconda.org/anaconda/xlrd)
+ - skforecast
  </p>
 
 
